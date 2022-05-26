@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Job-Thompson
 - 👀 I’m interested in Space, Data Analytics, and Automation Scripting
-- 🌱 I’m currently learning C#, Calculus, Advanced Python, and the .NET framework
+- 🌱 I’m currently learning C#, Advanced Calculus, Advanced Python, .NET Core, and SQL Optimizations. 
 - 💞️ I’m not looking to coolaborate at the moment
 - 📫 How to reach me: Email: Jobt3483@gmail.com
 
